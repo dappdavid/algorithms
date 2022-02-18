@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author David
+ *
+ */
+module algorithms {
+}
